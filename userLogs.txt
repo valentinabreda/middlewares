@@ -1,0 +1,9 @@
+El usuario ingreso a la ruta: /vale
+El usuario ingreso a la ruta: /adios
+El usuario ingreso a la ruta: /fue
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin=Tim
+El usuario ingreso a la ruta: /admin/tIM
+El usuario ingreso a la ruta: /admin/TIM
+El usuario ingreso a la ruta: /admin?user=Greta
+El usuario ingreso a la ruta: /admin?user=vale
